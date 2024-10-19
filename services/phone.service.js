@@ -16,10 +16,40 @@ export const addProductToDb = (newProduct) => {
 }
 
 
-export const getAllProducts = () => {
-    const products = readProductsDb(dbFilePath)
-    return products
+export const getAllProducts = (page, limit, filters) => {
+    let products = readProductsDb(dbFilePath)
+
+    if (filters.name) {
+        products = products.filter(product => 
+            product.name && product.name.toLowerCase().includes(filters.name.toLowerCase())
+        );
+    }
+    
+    const totalProducts = products.length
+    const totalPages = Math.ceil(totalProducts / limit)
+
+    if (page > totalPages) {
+        return {
+            totalProducts,
+            currentPage: page,
+            totalPages,
+            products: []
+        }
+    }
+    
+    const startIndex = (page - 1) * limit
+    const endIndex = page * limit
+    
+    const paginatedProducts = products.slice(startIndex, endIndex)
+
+    return {
+        totalProducts,
+        currentPage: page,
+        totalPages,
+        products: paginatedProducts
+    }
 }
+
 
 
 export const getOneProduct = (id) => {

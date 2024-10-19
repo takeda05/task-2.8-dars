@@ -4,5 +4,203 @@
         "model": "dsds",
         "price": 500,
         "company": "samsung"
+    },
+    {
+        "id": "c95d242f-b54c-4897-be67-17663db9948d",
+        "model": "iPhone 13",
+        "price": 799,
+        "company": "Apple"
+    },
+    {
+        "id": "8b59157b-921e-483c-98c5-263d465d2e3e",
+        "model": "iPhone 13",
+        "price": 799,
+        "company": "Apple"
+    },
+    {
+        "id": "59a67fa5-3335-49b0-b93b-62eefe156c31",
+        "model": "iPhone 13",
+        "price": 799,
+        "company": "Apple"
+    },
+    {
+        "id": "ec9abd39-8a0a-4242-a3f8-f215e9723ebd",
+        "model": "iPhone 13",
+        "price": 799,
+        "company": "Apple"
+    },
+    {
+        "id": "2764078a-3cbb-42ca-b252-9e3406c1722d",
+        "model": "iPhone 13",
+        "price": 799,
+        "company": "Apple"
+    },
+    {
+        "id": "a8dcceef-ac8f-4d3e-93b6-379dcbc0b921",
+        "model": "iPhone 13",
+        "price": 799,
+        "company": "Apple"
+    },
+    {
+        "id": "bbf91cfe-2926-42e8-a764-d90ea8e93710",
+        "model": "iPhone 13",
+        "price": 799,
+        "company": "Apple"
+    },
+    {
+        "id": "a698537b-9e2b-4130-81b5-a57c09becf74",
+        "model": "iPhone 13",
+        "price": 799,
+        "company": "Apple"
+    },
+    {
+        "id": "9d809b0f-2e28-4e7c-85df-a85b4db9348b",
+        "model": "iPhone 13",
+        "price": 799,
+        "company": "Apple"
+    },
+    {
+        "id": "2cf5192b-cab1-4275-b5ea-f075d496041e",
+        "model": "iPhone 13",
+        "price": 799,
+        "company": "Apple"
+    },
+    {
+        "id": "a759461f-714e-4cc9-8a9c-ca483e46e183",
+        "model": "iPhone 13",
+        "price": 799,
+        "company": "Apple"
+    },
+    {
+        "id": "bfc63770-a994-4949-88d8-1d060887dafd",
+        "model": "iPhone 13",
+        "price": 799,
+        "company": "Apple"
+    },
+    {
+        "id": "2396161e-3914-404f-9f5a-313ad49ed6f2",
+        "model": "iPhone 13",
+        "price": 799,
+        "company": "Apple"
+    },
+    {
+        "id": "8c423f88-9096-46f3-8ba4-cd9efb4b1052",
+        "model": "iPhone 13",
+        "price": 799,
+        "company": "Apple"
+    },
+    {
+        "id": "c2592448-e6e1-491f-a691-b1c917416d3b",
+        "model": "iPhone 13",
+        "price": 799,
+        "company": "Apple"
+    },
+    {
+        "id": "b6467eed-da13-4829-b786-b8f11ae323aa",
+        "model": "iPhone 13",
+        "price": 799,
+        "company": "Apple"
+    },
+    {
+        "id": "cc44f0f9-b457-43bb-9db7-e67648063bc4",
+        "model": "iPhone 13",
+        "price": 799,
+        "company": "Apple"
+    },
+    {
+        "id": "47cac647-72e6-4578-8fab-5972e54bcbe3",
+        "model": "iPhone 13",
+        "price": 799,
+        "company": "Apple"
+    },
+    {
+        "id": "7506cbb8-799f-408c-8ad3-62bc432ac7c6",
+        "model": "iPhone 13",
+        "price": 799,
+        "company": "Apple"
+    },
+    {
+        "id": "b5399d94-9469-4285-b7ff-f27e0ca0be67",
+        "model": "iPhone 13",
+        "price": 799,
+        "company": "Apple"
+    },
+    {
+        "id": "b244f47d-5584-4ca7-8058-721889f77777",
+        "model": "iPhone 13",
+        "price": 799,
+        "company": "Apple"
+    },
+    {
+        "id": "6a9633c8-c183-4c8b-bad0-6789de5b6d6b",
+        "model": "iPhone 13",
+        "price": 799,
+        "company": "Apple"
+    },
+    {
+        "id": "bf4b8790-06bc-47cc-a159-998033ec9990",
+        "model": "iPhone 13",
+        "price": 799,
+        "company": "Apple"
+    },
+    {
+        "id": "282e5a56-7b31-419c-b557-15a744940e69",
+        "model": "iPhone 13",
+        "price": 799,
+        "company": "Apple"
+    },
+    {
+        "id": "4a8c0867-9d80-476a-9edf-ccc85b8b5e90",
+        "model": "iPhone 13",
+        "price": 799,
+        "company": "Apple"
+    },
+    {
+        "id": "d3922f6e-7213-45c3-9a0d-666b6472fced",
+        "model": "iPhone 13",
+        "price": 799,
+        "company": "Apple"
+    },
+    {
+        "id": "eaa65130-8c18-4a86-a151-00ce7da140c9",
+        "model": "iPhone 13",
+        "price": 799,
+        "company": "Apple"
+    },
+    {
+        "id": "cc96a1ed-2758-4333-affc-dc1ec16f09d0",
+        "model": "iPhone 13",
+        "price": 799,
+        "company": "Apple"
+    },
+    {
+        "id": "c431582a-1a84-4c81-8319-b70cda253769",
+        "model": "iPhone 13",
+        "price": 799,
+        "company": "Apple"
+    },
+    {
+        "id": "904c3326-c1db-448f-a838-630399eb03f9",
+        "model": "iPhone 13",
+        "price": 799,
+        "company": "Apple"
+    },
+    {
+        "id": "f03ae56b-fac9-4c12-872c-14a02d0500fc",
+        "model": "iPhone 13",
+        "price": 799,
+        "company": "Apple"
+    },
+    {
+        "id": "6e0be7ea-efde-4d77-a57b-550c6e11342e",
+        "model": "iPhone 13",
+        "price": 799,
+        "company": "Apple"
+    },
+    {
+        "id": "e248540a-7735-44eb-b897-0bb2814bb3a6",
+        "model": "iPhone 13",
+        "price": 799,
+        "company": "Apple"
     }
 ]
